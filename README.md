@@ -1,8 +1,8 @@
-# Binding of Isaac Tarot Cards
-A Balatro mod that adds the official Tarot cards from The Binding of Isaac. <br/>
+# CRUSADE Tarot Cards
+A mod containing retextures for the 22 vanilla Tarot Cards to feature my OCs! <br/>
 Requires [Malverk](https://github.com/Eremel/Malverk).
 
-![Tarots1](https://github.com/user-attachments/assets/324fb28e-b441-4cbf-b16c-b905219d064a)
-![Tarots2](https://github.com/user-attachments/assets/5a8daaa9-7478-4724-acea-53f6d1dfe181)
+<img width="1152" height="648" alt="Tarot Page 1" src="https://github.com/user-attachments/assets/eb147342-8f3b-4661-b49f-21522d8b716a" />
+<img width="1152" height="648" alt="Tarot Page 2" src="https://github.com/user-attachments/assets/fb719d65-7a12-4cb1-a2aa-abdfddd6de5d" />
 
-The art used does not belong to me. It is from the Tarot Set sold by Edmund McMillen and Nicalis.
+All art and characters belongs to me.
